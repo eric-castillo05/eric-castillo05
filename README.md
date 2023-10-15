@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eric.</h1>
 <h2>:point_right: About me</h2>
-<p align="left">I'm a junior backend developer, I always try to do my best in everything I do and I am passionate about learning constantly. I believe in the philosophy that no one knows as much as all of us together, so I am always open to collaborate and learn from others.</p>
+<p align="left">.</p>
 
 <h2 align="left">Achievements:</h2>
 <p>- I won a state medal in competitive programming. </p>
