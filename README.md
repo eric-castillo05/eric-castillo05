@@ -8,10 +8,12 @@
 
 <h2 align="left">Achievements:</h2>
 <ul>
+<li>1st place HackaTecNM ITZ 2024, <i>May. 2024</i></li>
+<li>1st place StartUp Weekend Morelos 5th Edition, <i>Mar. 2024</i></li>
 <li>35th place in the ICPC México Finals, <i> Oct. 2023</i></li>
 <li>46th Place In “The 2023 ICPC Gran Premio de Mexico”, <i>Apr. 2023 - Sep. 2023</i></li>
 <li>3rd Place In CodingcupTecNM, <i>Oct. 2022</i></li>
-<li>3rd Place In Hackathon | HackatecNM, <i>Sep. 2022</i></li>
+<li>3rd Place In Hackathon | HackatecNM ITZ, <i>Sep. 2022</i></li>
 </ul>
 <p align="left"></p>
 
