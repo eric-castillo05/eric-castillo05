@@ -8,6 +8,7 @@
 
 <h2 align="left">Achievements:</h2>
 <ul>
+<li>1st place in the HackaTecNM ITZ 2024 National Phase, <i> Nov. 2024</i></li>
 <li>93th place in the ICPC México Finals, <i> Nov. 2024</i></li>
 <li>113th In “The 2024 ICPC Gran Premio de Mexico”, <i>Apr. 2024 - Oct. 2024</i></li>
 <li>1st place HackaTecNM ITZ 2024 Regional Phase, <i>Sep. 2024</i></li>
